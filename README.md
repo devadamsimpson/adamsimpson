@@ -9,23 +9,27 @@ I am a career-changer with a 15-year background in high-level management and tec
 
 ---
 
-### // The Technical Pivot
-I am currently dedicating my focus to a disciplined learning path in C# and Python. My goal is to combine my seniority in operational management with hard technical skills to solve complex problems in robotics and system automation.
+#### // The Technical Pivot
+>I am currently dedicating my focus to a disciplined learning path in C# and Python. My goal is to combine my seniority in operational management with hard technical skills to solve complex problems in robotics and system automation.
 
-## // Core Competencies & Experience
+#### // Core Competencies & Experience
 > Systems Logic: Expert in troubleshooting complex hardware/software intersections (4DX Motion Systems).
 > Data-Driven Ops: Extensive experience in P&L architecture and resource optimization.
 > Leadership: 15 years of experience leading multi-disciplinary teams and regional initiatives.
 > Hardware: City & Guilds Electrical Maintenance; hands-on experience with mechanical and electrical systems.
 
-## // Current Projects
-🤖 DIY Robotics: Developing logic-based control systems using C#.
-🏠 Home Automation: Building custom Python scripts to integrate and automate IoT devices.
-📚 Stack Study: Currently deep-diving into Full-Stack architecture and data structures.
+#### // Current Projects
+>🤖 DIY Robotics: Developing logic-based control systems using C#.
+>
+>🏠 Home Automation: Building custom Python scripts to integrate and automate IoT devices.
+>
+>📚 Stack Study: Currently deep-diving into Full-Stack architecture and data structures.
 
-// Get in Touch
-📫 Reach me at: [adam.simo.simpson@gmail.com]
-💼 LinkedIn: [www.linkedin.com/in/adam-simpson-dev]
+#### // Get in Touch
+>📫 Reach me at: [adam.simo.simpson@gmail.com]
+>
+>💼 LinkedIn: [www.linkedin.com/in/adam-simpson-dev]
+
 
 ```python
 class AdamSimpson:
